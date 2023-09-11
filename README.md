@@ -72,12 +72,9 @@ Before you begin, ensure you have met the following requirements:
    python backend.py
    ```
 2. Choose your desired options:
-
-  - Read the entire screen or content around the cursor.
-  - Customize the voice type, speed, and more.
-
+- Read the entire screen or content around the cursor.
+- Customize the voice type, speed, and more.
 3. Enjoy using EchoEyes to read the screen content!
-
 ## Contributing 🤝
 
 Contributions are welcome! If you'd like to improve EchoEyes, please follow these steps:
