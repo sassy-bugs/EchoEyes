@@ -69,7 +69,7 @@ Before you begin, ensure you have met the following requirements:
 1. Run the EchoEyes script:
 
    ```
-   python echoeyes.py
+   python backend.py
    ```
 2. Choose your desired options:
 
